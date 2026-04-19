@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776594265082-zb0ln67db",
+  "providerId": "claude",
+  "title": "Initiate conversation with greeting",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776594265084,
+  "updatedAt": 1776601189844,
+  "lastResponseAt": 1776601084554,
+  "sessionId": "04f24f70-50c2-4d3d-ba01-b7561fe109ab",
+  "providerState": {
+    "providerSessionId": "04f24f70-50c2-4d3d-ba01-b7561fe109ab"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 14000,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 14000,
+    "percentage": 7,
+    "contextWindowIsAuthoritative": true
+  }
+}

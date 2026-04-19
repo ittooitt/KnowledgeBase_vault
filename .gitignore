@@ -78,6 +78,4 @@ ios/Flutter/flutter_export_environment.sh
 .claude/settings.local.json
 
 .ralph/ralph-loop.state.json
-.claude/**
-.claudian/**
-.obsidian/**
+.obsidian/workspace.json
