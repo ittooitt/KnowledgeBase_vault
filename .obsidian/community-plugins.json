@@ -7,7 +7,6 @@
   "obsidian-charts",
   "obsidian-kanban",
   "obsidian-day-planner",
-  "dataview",
   "obsidian-linter",
   "obsidian-icon-folder",
   "obsidian42-brat",
@@ -17,5 +16,5 @@
   "obsidian-minimal-settings",
   "obsidian-pandoc",
   "obsidian-git",
-  "obsidian-pandoc"
+  "dataview"
 ]

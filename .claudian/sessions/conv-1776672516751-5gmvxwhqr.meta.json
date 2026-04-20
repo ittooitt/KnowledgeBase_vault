@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776672516751-5gmvxwhqr",
+  "providerId": "claude",
+  "title": "记录所有可用工具到文档",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776672516751,
+  "updatedAt": 1776672888086,
+  "lastResponseAt": 1776672888086,
+  "sessionId": "1c2750da-2fd8-4ce4-ae1f-c3d6027f7cea",
+  "providerState": {
+    "providerSessionId": "1c2750da-2fd8-4ce4-ae1f-c3d6027f7cea"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 9459,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 9459,
+    "percentage": 5,
+    "contextWindowIsAuthoritative": true
+  }
+}
